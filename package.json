@@ -1,0 +1,19 @@
+{
+  "name": "js_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "javascript"
+  ],
+  "author": "KaterynaLen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
